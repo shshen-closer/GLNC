@@ -1,6 +1,4 @@
-# DIMKT
-
-Source code and data set for the paper: Global and Local Cognitive Modeling for Student Performance Prediction.
+# Source code and data set for the paper: Global and Local Cognitive Modeling for Student Performance Prediction.
 
 
 
